@@ -1,4 +1,4 @@
-My Current Project to turn an old unused Phone (OnePlus Nord N10) into a Handheld Gaming Console.
+My Current Project to turn an old unused Phone (OnePlus Nord N10) into a Handheld Gaming Console. /ln
 Here is a quick render of the 3D Model.
 
 
